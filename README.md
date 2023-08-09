@@ -1,2 +1,2 @@
 # Power-BI
-sales dashboard
+Ecommerce dashboard
